@@ -3,6 +3,6 @@ print("Hello, World!")
 
 # Adding two numbers
 a = 10
-b = 30
+b = 50
 sum = a + b
 print("The sum is:", sum)
